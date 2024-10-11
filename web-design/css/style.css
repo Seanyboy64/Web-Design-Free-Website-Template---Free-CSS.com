@@ -328,11 +328,11 @@ h1 a img {
 
 .content {
 	background-color: #fff;
-	padding-bottom: 68px;
+   m-bottom:  40%;
 }
 
 .page1 .content {
-	padding-bottom: 70px;
+	padding-bottom: 10%;
 
 }
 
@@ -558,4 +558,7 @@ footer a:hover {
 .boat{
 	
 	margin-left: 18%;
+}
+.free{
+	text-align: center;
 }
